@@ -3,7 +3,8 @@
 	url = https://github.com/ross/requests-futures
 [submodule "third_party/ycmd"]
 	path = third_party/ycmd
-	url = git@github.com:bshimanuki/ycmd.git
+	url = https://github.com/bshimanuki/ycmd.git
+	pushurl = git@github.com:bshimanuki/ycmd.git
 	remote = true
 	update = rebase
 [submodule "third_party/requests_deps/idna"]
